@@ -1,4 +1,5 @@
 # 3D reconstruction of a mouse CT
+*Part of the code has been borrowed from [5]. Thanks to R. Marabini for his lessons and insights on tomographic reconstruction techniques.*
 
 ## Introduction
 A CT scan or computed tomography scan (formerly known as computed axial tomography or CAT scan) is a medical imaging technique used in radiology to get detailed images of the body noninvasively for diagnostic purposes.
@@ -73,7 +74,7 @@ Fig. 11. Visualization of results using Chimera.
 
 
 ## Cite this work
-    J. Rico (2019) 3D reconstruction of mouse Computed Tomography using Filtered Back-projection.
+    J. Rico (2020) 3D reconstruction of mouse Computed Tomography using Filtered Back-projection.
     [Source code](https://github.com/jvirico/mouse_CT_3D_reconstruction)
 
 ## References and Resources
