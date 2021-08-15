@@ -39,7 +39,23 @@ Fig. 4. Slice 201 of *mouse.tif* using Chimera.
 Fig. 5. Extraction of sinogram 201 from *mouse.tif*.
 
 ## 2D Reconstruction of slice 201.
+Fig. 6 shows the filtered back-projection of sinogram 201 extracted from *moise.tif*. We can see the ground truth of in Fig. 7, which is visualized using **ImageJ**.
 
+<img src="./img/201_reconstruction.png" alt="drawing" width="800"/>
+
+Fig. 6. Extraction of sinogram 201 from *mouse.tif*.
+
+<img src="./img/gt_201.png" alt="drawing" width="800"/>
+
+Fig. 7. Extraction of sinogram 201 from *mouse.tif*.
+
+
+## 3D Reconstruction of the whole volume
+
+<img src="./img/reconstruction_01.png" alt="drawing" width="800"/>
+<img src="./img/reconstruciton_02.png" alt="drawing" width="800"/>
+
+Fig. 8. Extraction of sinogram 201 from *mouse.tif*.
 
 
 ## Cite this work
