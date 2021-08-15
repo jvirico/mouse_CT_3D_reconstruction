@@ -55,7 +55,21 @@ Fig. 7. Extraction of sinogram 201 from *mouse.tif*.
 <img src="./img/reconstruction_01.png" alt="drawing" width="800"/>
 <img src="./img/reconstruciton_02.png" alt="drawing" width="800"/>
 
-Fig. 8. Extraction of sinogram 201 from *mouse.tif*.
+Fig. 8. 3D reconstruction main loop and parameter setting.
+
+<img src="./img/video.png" alt="drawing" width="800"/>
+
+Fig. 9. Video generation of reconstruction.
+
+
+<img src="./img/normalization.png" alt="drawing" width="800"/>
+
+Fig. 10. Re-normalization of values to visualize reconstruction with Chimera.
+
+
+<img src="./img/final.png" alt="drawing" width="800"/>
+
+Fig. 11. Visualization of results using Chimera.
 
 
 ## Cite this work
