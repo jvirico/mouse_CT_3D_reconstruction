@@ -5,7 +5,7 @@ A CT scan or computed tomography scan (formerly known as computed axial tomograp
 
 CT scanners use a rotating x-ray tube and a row of detectors placed in the gantry to measure X-ray attenuations by different tissues inside the body. The multiple X-ray measurements taken from different angles are then processed on a computer using reconstruction algorithms to produce tomographic (cross-sectional) images (virtual "slices") of a body [1].
 
-Here, Filtered Back-projection algorithm is used to recontruct the 3D volume from the mentioned collection of X-ray measurements, or Sinograms, also known in mathematics as the **Radon transform** [2], an example of the 2D object Phantom and its Sinogram can be seen in Fig. 1.
+Here, Filtered Back-projection algorithm is used to recontruct the 3D volume from the mentioned collection of X-ray measurements [3][4][5], or Sinograms, also known in mathematics as the **Radon transform** [2], an example of the 2D object Phantom and its Sinogram can be seen in Fig. 1.
 
 <img src="./img/phantom_sinogram.png" alt="drawing" width="400"/>
 
@@ -79,3 +79,6 @@ Fig. 11. Visualization of results using Chimera.
 ## References and Resources
 [1] - X-ray computed tomography as used in medicine. [CT Scan](https://en.wikipedia.org/wiki/CT_scan).\
 [2] - Sinogram. [Radon Transform](https://en.wikipedia.org/wiki/Radon_transform).\
+[3] - Penczek PA. Fundamentals of three-dimensional reconstruction from projections. Methods Enzymol. 2010;482:1-33. doi:10.1016/S0076-6879(10)82001-4 .\
+[4] - Use of Projection and Back-projection Methods in Bidimensional Computed Tomography Image Reconstruction. [Link](http://refbase.cvc.uab.es/files/Ber2009.pdf) .\
+[5] - Tomography and 3D imaging applied to biomedical samples. [Link](http://www.ipcv.eu/wp-content/uploads/2019/06/IPCV_UAM_TIBS.pdf).
